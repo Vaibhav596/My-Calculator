@@ -1,0 +1,25 @@
+#container{
+    border:2px solid black;
+    height:auto;
+    width:208px;
+    margin:auto;
+    margin-top: 150px;
+    display: flex;
+    flex-wrap: wrap;;
+}
+#results{
+    border: 2px solid red;
+    height:50px;
+    width:346px;
+}
+.elements{
+    height:50px;
+    width:50px;
+    border:1px solid red;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.content{
+    font-size: 1.6rem;
+}
